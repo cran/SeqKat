@@ -1,0 +1,21 @@
+useDynLib(SeqKat, .registration = TRUE)
+
+
+export(
+	"combine.table",
+	"final.score",
+	"get.context",
+	"get.exprobntcx",
+	"get.nucleotide.chunk.counts",
+	"get.pair",
+	"get.tn",
+	"get.toptn",
+	"seqkat",
+	"test.kataegis"
+	);
+
+import(foreach);
+import(doParallel);
+importFrom(Rcpp, evalCpp);
+importFrom("stats", "binom.test", "median", "na.omit", "p.adjust");
+importFrom("utils", "read.delim", "read.table", "tail", "write.table");
