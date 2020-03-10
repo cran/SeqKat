@@ -1,3 +1,13 @@
+# SeqKat 0.0.8
+===========================
+- Updated email for pboutros
+- sorting out CRAN checking issues with 0.0.7
+- fixed a typecast issue for systems where int is not compatible with size_t
+
+# SeqKat 0.0.7
+===========================
+- Removed the flags that strip cpp debug headers
+
 # SeqKat 0.0.6
 ===========================
 - Removed 'SeqKat' in single quotes from the Title field of the DESCRIPTION file as requested by CRAN maintainer
