@@ -1,6 +1,6 @@
-9e927ccce41fcd98698c71370c1bc9c6 *DESCRIPTION
+957de04735c0fba607f1d09ec5527c49 *DESCRIPTION
 df9872ad7632f11555a2638175ba5a93 *NAMESPACE
-a44a6fbabfe985c7d82eea72f470da50 *NEWS
+21625026d2f2e9e19c0c92e032727aba *NEWS
 ec29a94f26c6e4371b99ffcb81c80a5b *R/RcppExports.R
 572a078a213a807bfe774e09a6d80724 *R/combine.table.R
 ff9f444b40ecdc31b79cd5437122ab27 *R/final.score.R
@@ -13,10 +13,11 @@ ed7e81c0fbf86af3b63af4c54d64e068 *R/get.toptn.R
 bbca4a41e1783475f6df6401e75b3395 *R/get.trinucleotide.counts.R
 165a33d972070663dc296168a4fc15a3 *R/seqkat.R
 d597dc02f8adcb15963e57205b7b05a9 *R/test.kataegis.R
-3da8bb8dba95f023c84c64bd60223306 *build/vignette.rds
+d41d8cd98f00b204e9800998ecf8427e *README.md
+e56cfd161fe3a52ff8de94037883a8be *build/vignette.rds
 40e372f30cb0e2697ea08212dc7c05f0 *exec/generate.trinucleotide.counts
 4bceadebfdd50cd680f9a93282e48623 *inst/doc/vignette.Rmd
-13ca92aa443026a2860561499438aed6 *inst/doc/vignette.pdf
+adbea61696e66d25ab35f14c04a76373 *inst/doc/vignette.pdf
 5fd23a02a717d6a06096b585d7bde65c *inst/extdata/length_hg19_chr.txt
 9f3c7c7c11522b2863343477c6eec733 *inst/extdata/length_hg38_chr.txt
 5fd23a02a717d6a06096b585d7bde65c *inst/extdata/length_hs37d5_chr.txt
